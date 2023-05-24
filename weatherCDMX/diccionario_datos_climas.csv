@@ -1,0 +1,19 @@
+Categoría,"                                            Nombre de la base y/o conjunto de datos
+
+","                                                     Nombre de la tabla de la base de datos / hoja del conjunto de datos
+
+",Descripción de capa,Etiqueta del campo o variable ,Descripció de Campo,"Tipo de dato
+",Rango o valores que permite el campo,"Clasificación de la información
+","Especificaciones y/o reglas de cálculo
+ 
+","Obligatoriedad del campo
+ 
+","Registro de campos vacíos 
+ 
+","Tipo de archivo:
+"
+Medio Ambiente y Cambio Climático,climas,Climas en la Ciudad de México,Capa de información geoespacial con los climas en la Ciudad de México,OBJECTID,IDENTIFICADOR,Número entero ,Número consecutivo,Pública,,Obligatorio,Sin datos vacios,Shape file (.shp)
+Medio Ambiente y Cambio Climático,climas,Climas en la Ciudad de México,Capa de información geoespacial con los climas en la Ciudad de México,AREA,ÁREA,Número entero ,97282.8   a    3058081,Pública,,Obligatorio,Sin datos vacios,Shape file (.shp)
+Medio Ambiente y Cambio Climático,climas,Climas en la Ciudad de México,Capa de información geoespacial con los climas en la Ciudad de México,PERIMETER,PERIMETRO,Número decimales,348640200   a    18236520000,Pública,,Obligatorio,Sin datos vacios,Shape file (.shp)
+Medio Ambiente y Cambio Climático,climas,Climas en la Ciudad de México,Capa de información geoespacial con los climas en la Ciudad de México,CLAVE,CLAVE,Alfanumerico,Clave temperatura,Pública,,Obligatorio,Sin datos vacios,Shape file (.shp)
+Medio Ambiente y Cambio Climático,climas,Climas en la Ciudad de México,Capa de información geoespacial con los climas en la Ciudad de México,TIPO_C,TIPO DE CLIMAS,Alfanumerico,Texto,Pública,,Obligatorio,Sin datos vacios,Shape file (.shp)
